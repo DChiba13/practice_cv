@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chiba/workspace/cxx/practice_cv/tutorial_cv_io/src/tutorial_cv_io.cpp
+opencv2/opencv.hpp
+-
+

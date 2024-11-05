@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14   -rdynamic CMakeFiles/tutorial_cv_hough.dir/src/tutorial_cv_hough.cpp.o  -o tutorial_cv_hough  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -lopencv_core -lopencv_highgui -lopencv_imgcodecs -lopencv_imgproc 
